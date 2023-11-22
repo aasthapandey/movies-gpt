@@ -3,8 +3,12 @@
 - Create React App
 - Configured TailwindCSS
 - Header
+- Routing of App
 - Login Form
 - Sign up Form
+- useRef Hook
+- Firebase setup
+- Deploying application to production
 
 # Features:
 - Login/Sign Up
@@ -20,3 +24,10 @@
 - NetflixGPT
     - Search Bar
     - Movie Suggestions
+
+
+# Steps for firebase deployment
+- Install firebase CLI - "npm install -g firebase-tools"
+- Firebase Login - "firebase login"
+- Initialize Firebase - "firebase init" ,then select Hosting
+- Deploy command - "firebase deploy"
